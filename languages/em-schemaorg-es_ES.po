@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Structured data for Events Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 14:37+0000\n"
+"PO-Revision-Date: 2018-10-21 14:39+0000\n"
+"Last-Translator: agmialdea <aekschoko@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: structured-data-for-events-manager.php:37
+#, php-format
+msgid ""
+"The <strong>Structured data for Events Manager</strong> plugin has been "
+"deactivated. Its activation depends on whether the <a href=\"%1$s\" "
+"class=\"%2$s\">Events Manager</a> plugin is active."
+msgstr ""
+"El plugin <strong>Datos estructurados para Events Manager</strong ha sido "
+"desactivado. Su activación depende de que el plugin <a href=\"%1$s\" "
+"class=\"%2$s\">Events Manager</a> esté activo."
+
+#. Name of the plugin
+msgid "Structured data for Events Manager"
+msgstr "Datos estructurados para Events Manager"
+
+#. Description of the plugin
+msgid ""
+"Automatically adds structured data to events posts created with the Events "
+"Manager plugin by JSON-LD method"
+msgstr ""
+"Añade automáticamente datos estructurados a los eventos creados con el "
+"plugin Events Manager mediante el método JSON-LD."
+
+#. URI of the plugin
+msgid "http://agmialdea.info/events-manager-structured-data"
+msgstr "http://agmialdea.info/events-manager-structured-data"
+
+#. Author of the plugin
+msgid "Alejandro Gil Mialdea"
+msgstr "Alejandro Gil Mialdea"
+
+#. Author URI of the plugin
+msgid "https://agmialdea.info"
+msgstr "https://agmialdea.info"
